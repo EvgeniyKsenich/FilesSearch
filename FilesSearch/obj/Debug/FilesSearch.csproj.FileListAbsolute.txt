@@ -1,0 +1,6 @@
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\FilesSearch\FilesSearch\bin\Debug\FilesSearch.exe.config
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\FilesSearch\FilesSearch\bin\Debug\FilesSearch.exe
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\FilesSearch\FilesSearch\bin\Debug\FilesSearch.pdb
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\FilesSearch\FilesSearch\obj\Debug\FilesSearch.csprojResolveAssemblyReference.cache
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\FilesSearch\FilesSearch\obj\Debug\FilesSearch.exe
+C:\Users\zzzzz\OneDrive\Документы\Visual Studio 2015\Projects\FilesSearch\FilesSearch\obj\Debug\FilesSearch.pdb
